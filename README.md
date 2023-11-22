@@ -1,3 +1,4 @@
+![airbnb_logo_detail](https://github.com/shahlobsha/Airbnb-Eda-Capstone-Project/assets/142884379/4807dcbe-503a-402b-a0a6-be4d04ee24cd)
 **Airbnb** is a prominent online hospitality marketplace connecting travelers with lodging options worldwide. Founded in 2008, it has revolutionized travel by enabling individuals to rent a variety of accommodations directly from hosts. This sharing economy platform offers unique stays, ranging from cozy homes to unconventional spaces. Airbnb has created a global community of hosts and travelers, providing diverse and cost-effective lodging choices. While it's transformed the way people travel, Airbnb has also faced regulatory challenges, housing concerns, and community impacts in some regions due to its disruptive influence on traditional hospitality and housing markets.
 
 
